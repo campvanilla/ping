@@ -1,0 +1,20 @@
+{
+  "name": "BackOnline",
+  "short_name": "BackOnline",
+  "icons": [
+    {
+      "src": "/images/192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "background_color": "#43c8cc",
+  "theme_color": "#43c8cc"
+}
